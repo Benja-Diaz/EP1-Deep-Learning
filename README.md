@@ -48,5 +48,5 @@ El notebook incluye:
 
 ## Integrantes
 
-- Nombre integrante 1
-- Nombre integrante 2
+- Maria Jose Alvarez
+- Benjamin Diaz 
